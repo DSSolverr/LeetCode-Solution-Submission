@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0224-basic-calculator) |
 | [0301-remove-invalid-parentheses](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0301-remove-invalid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1021-remove-outermost-parentheses) |
 ## Backtracking
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0224-basic-calculator) |
 | [1021-remove-outermost-parentheses](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
@@ -76,4 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0572-subtree-of-another-tree) |
+## Math
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0224-basic-calculator) |
+## Recursion
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->
