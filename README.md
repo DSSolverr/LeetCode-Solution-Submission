@@ -15,12 +15,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3276-select-cells-in-grid-with-maximum-score](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3276-select-cells-in-grid-with-maximum-score) |
 | [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
 | [3743-maximize-cyclic-partition-score](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3743-maximize-cyclic-partition-score) |
+| [3957-maximum-sum-of-m-non-overlapping-subarrays-ii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3957-maximum-sum-of-m-non-overlapping-subarrays-ii) |
 | [3962-maximum-subarray-sum-after-at-most-k-swaps](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3962-maximum-subarray-sum-after-at-most-k-swaps) |
 ## Sliding Window
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0239-sliding-window-maximum) |
+| [3957-maximum-sum-of-m-non-overlapping-subarrays-ii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3957-maximum-sum-of-m-non-overlapping-subarrays-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -127,10 +129,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
 | [3704-count-no-zero-pairs-that-sum-to-n](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3704-count-no-zero-pairs-that-sum-to-n) |
 | [3743-maximize-cyclic-partition-score](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3743-maximize-cyclic-partition-score) |
+| [3957-maximum-sum-of-m-non-overlapping-subarrays-ii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3957-maximum-sum-of-m-non-overlapping-subarrays-ii) |
 ## Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0239-sliding-window-maximum) |
+| [3957-maximum-sum-of-m-non-overlapping-subarrays-ii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3957-maximum-sum-of-m-non-overlapping-subarrays-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -142,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0239-sliding-window-maximum) |
+| [3957-maximum-sum-of-m-non-overlapping-subarrays-ii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3957-maximum-sum-of-m-non-overlapping-subarrays-ii) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -156,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3957-maximum-sum-of-m-non-overlapping-subarrays-ii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3957-maximum-sum-of-m-non-overlapping-subarrays-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -200,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3303-find-the-occurrence-of-first-almost-equal-substring](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3303-find-the-occurrence-of-first-almost-equal-substring) |
+## Prefix Sum
+|  |
+| ------- |
+| [3957-maximum-sum-of-m-non-overlapping-subarrays-ii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3957-maximum-sum-of-m-non-overlapping-subarrays-ii) |
 <!---LeetCode Topics End-->
