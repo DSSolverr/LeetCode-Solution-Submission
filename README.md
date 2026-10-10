@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0001-two-sum) |
 | [0220-contains-duplicate-iii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0239-sliding-window-maximum) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Sliding Window
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0220-contains-duplicate-iii) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0239-sliding-window-maximum) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -120,4 +123,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/2333-minimum-sum-of-squared-difference) |
+## Binary Search
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
