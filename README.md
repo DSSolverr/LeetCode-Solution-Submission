@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0233-number-of-digit-one) |
 | [3463-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3463-check-if-digits-are-equal-in-string-after-operations-ii) |
+| [3704-count-no-zero-pairs-that-sum-to-n](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3704-count-no-zero-pairs-that-sum-to-n) |
 ## Recursion
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0233-number-of-digit-one](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0233-number-of-digit-one) |
 | [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
+| [3704-count-no-zero-pairs-that-sum-to-n](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3704-count-no-zero-pairs-that-sum-to-n) |
 | [3743-maximize-cyclic-partition-score](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3743-maximize-cyclic-partition-score) |
 ## Queue
 |  |
