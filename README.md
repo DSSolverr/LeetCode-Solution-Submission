@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0220-contains-duplicate-iii) |
+| [0295-find-median-from-data-stream](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0295-find-median-from-data-stream) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3962-maximum-subarray-sum-after-at-most-k-swaps](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3962-maximum-subarray-sum-after-at-most-k-swaps) |
 ## Bucket Sort
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0295-find-median-from-data-stream) |
 | [0420-strong-password-checker](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0420-strong-password-checker) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3266-final-array-state-after-k-multiplication-operations-ii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3266-final-array-state-after-k-multiplication-operations-ii) |
@@ -225,4 +227,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/2778-sum-of-squares-of-special-elements) |
+## Two Pointers
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0295-find-median-from-data-stream) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
