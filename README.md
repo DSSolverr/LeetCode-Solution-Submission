@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0224-basic-calculator) |
+| [0282-expression-add-operators](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0301-remove-invalid-parentheses) |
 | [0420-strong-password-checker](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0420-strong-password-checker) |
 | [1021-remove-outermost-parentheses](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1021-remove-outermost-parentheses) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0282-expression-add-operators](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0301-remove-invalid-parentheses) |
 ## Depth-First Search
 |  |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0224-basic-calculator](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0233-number-of-digit-one) |
+| [0282-expression-add-operators](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0282-expression-add-operators) |
 | [3463-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3463-check-if-digits-are-equal-in-string-after-operations-ii) |
 | [3609-minimum-moves-to-reach-target-in-grid](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3609-minimum-moves-to-reach-target-in-grid) |
 | [3704-count-no-zero-pairs-that-sum-to-n](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3704-count-no-zero-pairs-that-sum-to-n) |
