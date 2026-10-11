@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0239-sliding-window-maximum) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3165-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 | [3266-final-array-state-after-k-multiplication-operations-ii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3266-final-array-state-after-k-multiplication-operations-ii) |
 | [3276-select-cells-in-grid-with-maximum-score](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3276-select-cells-in-grid-with-maximum-score) |
@@ -213,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3957-maximum-sum-of-m-non-overlapping-subarrays-ii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3957-maximum-sum-of-m-non-overlapping-subarrays-ii) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
