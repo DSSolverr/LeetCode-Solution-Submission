@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0233-number-of-digit-one) |
 | [0282-expression-add-operators](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0282-expression-add-operators) |
+| [0458-poor-pigs](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0458-poor-pigs) |
 | [0470-implement-rand10-using-rand7](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0470-implement-rand10-using-rand7) |
 | [0478-generate-random-point-in-a-circle](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0478-generate-random-point-in-a-circle) |
 | [3463-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3463-check-if-digits-are-equal-in-string-after-operations-ii) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0233-number-of-digit-one](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0233-number-of-digit-one) |
+| [0458-poor-pigs](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0458-poor-pigs) |
 | [0546-remove-boxes](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0546-remove-boxes) |
 | [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3165-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 | [3276-select-cells-in-grid-with-maximum-score](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3276-select-cells-in-grid-with-maximum-score) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0458-poor-pigs](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0458-poor-pigs) |
 | [3463-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3463-check-if-digits-are-equal-in-string-after-operations-ii) |
 ## Number Theory
 |  |
