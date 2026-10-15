@@ -343,4 +343,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0587-erect-the-fence](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0587-erect-the-fence) |
+## Database
+|  |
+| ------- |
+| [0601-human-traffic-of-stadium](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0601-human-traffic-of-stadium) |
 <!---LeetCode Topics End-->
