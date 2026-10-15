@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0239-sliding-window-maximum) |
 | [0517-super-washing-machines](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0517-super-washing-machines) |
+| [0546-remove-boxes](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0546-remove-boxes) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0233-number-of-digit-one](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0233-number-of-digit-one) |
+| [0546-remove-boxes](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0546-remove-boxes) |
 | [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3165-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 | [3276-select-cells-in-grid-with-maximum-score](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3276-select-cells-in-grid-with-maximum-score) |
 | [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
@@ -254,4 +256,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0295-find-median-from-data-stream) |
+## Memoization
+|  |
+| ------- |
+| [0546-remove-boxes](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0546-remove-boxes) |
 <!---LeetCode Topics End-->
