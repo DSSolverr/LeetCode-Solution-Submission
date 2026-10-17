@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0679-24-game](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0679-24-game) |
 | [0782-transform-to-chessboard](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0782-transform-to-chessboard) |
+| [0793-preimage-size-of-factorial-zeroes-function](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
 | [3463-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3463-check-if-digits-are-equal-in-string-after-operations-ii) |
 | [3609-minimum-moves-to-reach-target-in-grid](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3609-minimum-moves-to-reach-target-in-grid) |
 | [3704-count-no-zero-pairs-that-sum-to-n](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3704-count-no-zero-pairs-that-sum-to-n) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+| [0793-preimage-size-of-factorial-zeroes-function](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3957-maximum-sum-of-m-non-overlapping-subarrays-ii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3957-maximum-sum-of-m-non-overlapping-subarrays-ii) |
 ## Binary Search Tree
