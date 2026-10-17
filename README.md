@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0587-erect-the-fence](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0587-erect-the-fence) |
 | [0630-course-schedule-iii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0675-cut-off-trees-for-golf-event](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0675-cut-off-trees-for-golf-event) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0102-binary-tree-level-order-traversal) |
 | [0301-remove-invalid-parentheses](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0301-remove-invalid-parentheses) |
+| [0675-cut-off-trees-for-golf-event](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0420-strong-password-checker](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0420-strong-password-checker) |
 | [0630-course-schedule-iii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0675-cut-off-trees-for-golf-event](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0675-cut-off-trees-for-golf-event) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3266-final-array-state-after-k-multiplication-operations-ii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3266-final-array-state-after-k-multiplication-operations-ii) |
 | [3962-maximum-subarray-sum-after-at-most-k-swaps](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3962-maximum-subarray-sum-after-at-most-k-swaps) |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0675-cut-off-trees-for-golf-event](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0675-cut-off-trees-for-golf-event) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [3276-select-cells-in-grid-with-maximum-score](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3276-select-cells-in-grid-with-maximum-score) |
 ## Bitmask
