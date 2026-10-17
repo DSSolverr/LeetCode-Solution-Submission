@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0546-remove-boxes](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0546-remove-boxes) |
 | [0587-erect-the-fence](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0587-erect-the-fence) |
 | [0630-course-schedule-iii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0630-course-schedule-iii) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0239-sliding-window-maximum) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [3957-maximum-sum-of-m-non-overlapping-subarrays-ii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3957-maximum-sum-of-m-non-overlapping-subarrays-ii) |
 ## Sorting
 |  |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0220-contains-duplicate-iii) |
 | [0295-find-median-from-data-stream](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0295-find-median-from-data-stream) |
 | [0630-course-schedule-iii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0630-course-schedule-iii) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -61,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0001-two-sum) |
 | [0219-contains-duplicate-ii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0219-contains-duplicate-ii) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -189,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0295-find-median-from-data-stream) |
 | [0420-strong-password-checker](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0420-strong-password-checker) |
 | [0630-course-schedule-iii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0630-course-schedule-iii) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3266-final-array-state-after-k-multiplication-operations-ii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3266-final-array-state-after-k-multiplication-operations-ii) |
 | [3962-maximum-subarray-sum-after-at-most-k-swaps](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3962-maximum-subarray-sum-after-at-most-k-swaps) |
@@ -207,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0420-strong-password-checker](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0420-strong-password-checker) |
 | [0517-super-washing-machines](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0517-super-washing-machines) |
 | [0630-course-schedule-iii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0630-course-schedule-iii) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
