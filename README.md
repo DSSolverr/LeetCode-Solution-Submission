@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0679-24-game](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0679-24-game) |
+| [0782-transform-to-chessboard](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0782-transform-to-chessboard) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0587-erect-the-fence](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0587-erect-the-fence) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0679-24-game](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0679-24-game) |
+| [0782-transform-to-chessboard](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0782-transform-to-chessboard) |
 | [3463-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3463-check-if-digits-are-equal-in-string-after-operations-ii) |
 | [3609-minimum-moves-to-reach-target-in-grid](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3609-minimum-moves-to-reach-target-in-grid) |
 | [3704-count-no-zero-pairs-that-sum-to-n](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3704-count-no-zero-pairs-that-sum-to-n) |
@@ -272,12 +274,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0782-transform-to-chessboard](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0782-transform-to-chessboard) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3276-select-cells-in-grid-with-maximum-score](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3276-select-cells-in-grid-with-maximum-score) |
 ## Matrix
 |  |
 | ------- |
 | [0675-cut-off-trees-for-golf-event](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0675-cut-off-trees-for-golf-event) |
+| [0782-transform-to-chessboard](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0782-transform-to-chessboard) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [3276-select-cells-in-grid-with-maximum-score](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3276-select-cells-in-grid-with-maximum-score) |
 ## Bitmask
