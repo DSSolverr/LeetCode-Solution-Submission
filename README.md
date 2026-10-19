@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0110-balanced-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0834-sum-of-distances-in-tree](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0834-sum-of-distances-in-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Breadth-First Search
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0827-making-a-large-island](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0827-making-a-large-island) |
+| [0834-sum-of-distances-in-tree](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0834-sum-of-distances-in-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1192-critical-connections-in-a-network](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1192-critical-connections-in-a-network) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0805-split-array-with-same-average](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0805-split-array-with-same-average) |
 | [0818-race-car](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0818-race-car) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
+| [0834-sum-of-distances-in-tree](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0834-sum-of-distances-in-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3165-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 | [3276-select-cells-in-grid-with-maximum-score](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3276-select-cells-in-grid-with-maximum-score) |
@@ -361,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0834-sum-of-distances-in-tree](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0834-sum-of-distances-in-tree) |
 | [1192-critical-connections-in-a-network](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1192-critical-connections-in-a-network) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 ## Biconnected Component
@@ -467,4 +471,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0818-race-car](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0818-race-car) |
+## DP on Trees
+|  |
+| ------- |
+| [0834-sum-of-distances-in-tree](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0834-sum-of-distances-in-tree) |
 <!---LeetCode Topics End-->
