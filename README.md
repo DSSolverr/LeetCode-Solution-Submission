@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
 | [0805-split-array-with-same-average](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0805-split-array-with-same-average) |
 | [0810-chalkboard-xor-game](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0810-chalkboard-xor-game) |
+| [0829-consecutive-numbers-sum](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0829-consecutive-numbers-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3463-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3463-check-if-digits-are-equal-in-string-after-operations-ii) |
 | [3609-minimum-moves-to-reach-target-in-grid](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3609-minimum-moves-to-reach-target-in-grid) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0829-consecutive-numbers-sum](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0829-consecutive-numbers-sum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Two Pointers
 |  |
