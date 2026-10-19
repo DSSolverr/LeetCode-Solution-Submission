@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0899-orderly-queue](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0899-orderly-queue) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0906-super-palindromes](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0906-super-palindromes) |
+| [0913-cat-and-mouse](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0913-cat-and-mouse) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3463-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3463-check-if-digits-are-equal-in-string-after-operations-ii) |
 | [3609-minimum-moves-to-reach-target-in-grid](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3609-minimum-moves-to-reach-target-in-grid) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0887-super-egg-drop](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0887-super-egg-drop) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0903-valid-permutations-for-di-sequence](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0903-valid-permutations-for-di-sequence) |
+| [0913-cat-and-mouse](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0913-cat-and-mouse) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3165-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 | [3276-select-cells-in-grid-with-maximum-score](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3276-select-cells-in-grid-with-maximum-score) |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0546-remove-boxes](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0546-remove-boxes) |
+| [0913-cat-and-mouse](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0913-cat-and-mouse) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Graph Theory
 |  |
@@ -433,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0834-sum-of-distances-in-tree](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0834-sum-of-distances-in-tree) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0882-reachable-nodes-in-subdivided-graph) |
+| [0913-cat-and-mouse](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0913-cat-and-mouse) |
 | [1192-critical-connections-in-a-network](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1192-critical-connections-in-a-network) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 ## Biconnected Component
@@ -525,10 +529,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0810-chalkboard-xor-game](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0810-chalkboard-xor-game) |
 | [0843-guess-the-word](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0843-guess-the-word) |
+| [0913-cat-and-mouse](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0913-cat-and-mouse) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0810-chalkboard-xor-game](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0810-chalkboard-xor-game) |
+| [0913-cat-and-mouse](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0913-cat-and-mouse) |
 ## Impartial Game
 |  |
 | ------- |
@@ -549,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0843-guess-the-word](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0843-guess-the-word) |
+| [0913-cat-and-mouse](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0913-cat-and-mouse) |
 ## Interactive
 |  |
 | ------- |
@@ -585,4 +592,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0899-orderly-queue](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0899-orderly-queue) |
+## Topological Sort
+|  |
+| ------- |
+| [0913-cat-and-mouse](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0913-cat-and-mouse) |
 <!---LeetCode Topics End-->
