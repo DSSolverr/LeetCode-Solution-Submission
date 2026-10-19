@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0679-24-game) |
 | [0782-transform-to-chessboard](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0782-transform-to-chessboard) |
 | [0798-smallest-rotation-with-highest-score](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0798-smallest-rotation-with-highest-score) |
+| [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0629-k-inverse-pairs-array](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0629-k-inverse-pairs-array) |
 | [0639-decode-ways-ii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0639-decode-ways-ii) |
 | [0664-strange-printer](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0664-strange-printer) |
+| [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3165-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 | [3276-select-cells-in-grid-with-maximum-score](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3276-select-cells-in-grid-with-maximum-score) |
