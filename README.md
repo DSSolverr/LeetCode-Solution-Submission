@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0879-profitable-schemes](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0879-profitable-schemes) |
 | [0891-sum-of-subsequence-widths](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0891-sum-of-subsequence-widths) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0902-numbers-at-most-n-given-digit-set) |
+| [0924-minimize-malware-spread](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0924-minimize-malware-spread) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0839-similar-string-groups](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0839-similar-string-groups) |
 | [0854-k-similar-strings](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0854-k-similar-strings) |
 | [0895-maximum-frequency-stack](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0895-maximum-frequency-stack) |
+| [0924-minimize-malware-spread](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0924-minimize-malware-spread) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0847-shortest-path-visiting-all-nodes](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0854-k-similar-strings](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0854-k-similar-strings) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0864-shortest-path-to-get-all-keys) |
+| [0924-minimize-malware-spread](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0924-minimize-malware-spread) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 ## Binary Tree
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0827-making-a-large-island) |
 | [0834-sum-of-distances-in-tree](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0834-sum-of-distances-in-tree) |
 | [0839-similar-string-groups](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0839-similar-string-groups) |
+| [0924-minimize-malware-spread](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0924-minimize-malware-spread) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1192-critical-connections-in-a-network](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1192-critical-connections-in-a-network) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
@@ -440,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0847-shortest-path-visiting-all-nodes](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 | [0913-cat-and-mouse](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0913-cat-and-mouse) |
+| [0924-minimize-malware-spread](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0924-minimize-malware-spread) |
 | [1192-critical-connections-in-a-network](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1192-critical-connections-in-a-network) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 ## Biconnected Component
@@ -475,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-bricks-falling-when-hit](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0803-bricks-falling-when-hit) |
 | [0827-making-a-large-island](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0827-making-a-large-island) |
 | [0839-similar-string-groups](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0839-similar-string-groups) |
+| [0924-minimize-malware-spread](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0924-minimize-malware-spread) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Minimum Spanning Tree
