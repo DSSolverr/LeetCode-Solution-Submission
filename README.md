@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0843-guess-the-word](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0843-guess-the-word) |
 | [0850-rectangle-area-ii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0850-rectangle-area-ii) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0857-minimum-cost-to-hire-k-workers) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0239-sliding-window-maximum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [3957-maximum-sum-of-m-non-overlapping-subarrays-ii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3957-maximum-sum-of-m-non-overlapping-subarrays-ii) |
 ## Sorting
 |  |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0239-sliding-window-maximum) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [3957-maximum-sum-of-m-non-overlapping-subarrays-ii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3957-maximum-sum-of-m-non-overlapping-subarrays-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0857-minimum-cost-to-hire-k-workers) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3266-final-array-state-after-k-multiplication-operations-ii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3266-final-array-state-after-k-multiplication-operations-ii) |
 | [3962-maximum-subarray-sum-after-at-most-k-swaps](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3962-maximum-subarray-sum-after-at-most-k-swaps) |
@@ -264,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0239-sliding-window-maximum) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [3957-maximum-sum-of-m-non-overlapping-subarrays-ii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3957-maximum-sum-of-m-non-overlapping-subarrays-ii) |
 ## Range Minimum/Maximum Query
 |  |
@@ -288,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3957-maximum-sum-of-m-non-overlapping-subarrays-ii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3957-maximum-sum-of-m-non-overlapping-subarrays-ii) |
@@ -360,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0798-smallest-rotation-with-highest-score](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0798-smallest-rotation-with-highest-score) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [3957-maximum-sum-of-m-non-overlapping-subarrays-ii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3957-maximum-sum-of-m-non-overlapping-subarrays-ii) |
 ## Enumeration
 |  |
