@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0810-chalkboard-xor-game](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0810-chalkboard-xor-game) |
 | [0815-bus-routes](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0815-bus-routes) |
 | [0827-making-a-large-island](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0827-making-a-large-island) |
+| [0839-similar-string-groups](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0839-similar-string-groups) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0805-split-array-with-same-average](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0805-split-array-with-same-average) |
 | [0815-bus-routes](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0815-bus-routes) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
+| [0839-similar-string-groups](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0839-similar-string-groups) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0815-bus-routes](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0815-bus-routes) |
 | [0827-making-a-large-island](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0827-making-a-large-island) |
+| [0839-similar-string-groups](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0839-similar-string-groups) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 ## Binary Tree
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0639-decode-ways-ii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0639-decode-ways-ii) |
 | [0664-strange-printer](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0664-strange-printer) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
+| [0839-similar-string-groups](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0839-similar-string-groups) |
 | [1021-remove-outermost-parentheses](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3303-find-the-occurrence-of-first-almost-equal-substring](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3303-find-the-occurrence-of-first-almost-equal-substring) |
@@ -153,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0827-making-a-large-island](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0827-making-a-large-island) |
 | [0834-sum-of-distances-in-tree](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0834-sum-of-distances-in-tree) |
+| [0839-similar-string-groups](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0839-similar-string-groups) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1192-critical-connections-in-a-network](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1192-critical-connections-in-a-network) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
@@ -399,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0803-bricks-falling-when-hit](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0803-bricks-falling-when-hit) |
 | [0827-making-a-large-island](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0827-making-a-large-island) |
+| [0839-similar-string-groups](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0839-similar-string-groups) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Minimum Spanning Tree
