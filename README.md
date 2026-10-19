@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0829-consecutive-numbers-sum](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0829-consecutive-numbers-sum) |
 | [0843-guess-the-word](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0843-guess-the-word) |
 | [0878-nth-magical-number](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0878-nth-magical-number) |
+| [0887-super-egg-drop](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0887-super-egg-drop) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3463-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3463-check-if-digits-are-equal-in-string-after-operations-ii) |
 | [3609-minimum-moves-to-reach-target-in-grid](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3609-minimum-moves-to-reach-target-in-grid) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0847-shortest-path-visiting-all-nodes](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0879-profitable-schemes](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0879-profitable-schemes) |
+| [0887-super-egg-drop](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0887-super-egg-drop) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3165-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 | [3276-select-cells-in-grid-with-maximum-score](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3276-select-cells-in-grid-with-maximum-score) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0878-nth-magical-number](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0878-nth-magical-number) |
+| [0887-super-egg-drop](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0887-super-egg-drop) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3957-maximum-sum-of-m-non-overlapping-subarrays-ii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3957-maximum-sum-of-m-non-overlapping-subarrays-ii) |
