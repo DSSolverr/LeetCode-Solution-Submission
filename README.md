@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0805-split-array-with-same-average](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0805-split-array-with-same-average) |
 | [0815-bus-routes](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0815-bus-routes) |
+| [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0420-strong-password-checker](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0420-strong-password-checker) |
 | [0639-decode-ways-ii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0639-decode-ways-ii) |
 | [0664-strange-printer](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0664-strange-printer) |
+| [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [1021-remove-outermost-parentheses](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3303-find-the-occurrence-of-first-almost-equal-substring](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3303-find-the-occurrence-of-first-almost-equal-substring) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0805-split-array-with-same-average](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0805-split-array-with-same-average) |
 | [0818-race-car](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0818-race-car) |
+| [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3165-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 | [3276-select-cells-in-grid-with-maximum-score](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3276-select-cells-in-grid-with-maximum-score) |
