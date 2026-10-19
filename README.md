@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0827-making-a-large-island) |
 | [0839-similar-string-groups](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0839-similar-string-groups) |
 | [0843-guess-the-word](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0843-guess-the-word) |
+| [0850-rectangle-area-ii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0850-rectangle-area-ii) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0220-contains-duplicate-iii) |
+| [0850-rectangle-area-ii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0850-rectangle-area-ii) |
 | [3962-maximum-subarray-sum-after-at-most-k-swaps](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3962-maximum-subarray-sum-after-at-most-k-swaps) |
 ## Hash Table
 |  |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0850-rectangle-area-ii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0850-rectangle-area-ii) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3165-maximum-sum-of-subsequence-with-non-adjacent-elements) |
@@ -498,4 +501,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0843-guess-the-word](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0843-guess-the-word) |
+## Sweep Line
+|  |
+| ------- |
+| [0850-rectangle-area-ii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0850-rectangle-area-ii) |
 <!---LeetCode Topics End-->
