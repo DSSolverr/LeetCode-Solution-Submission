@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3303-find-the-occurrence-of-first-almost-equal-substring](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3303-find-the-occurrence-of-first-almost-equal-substring) |
 | [3463-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3463-check-if-digits-are-equal-in-string-after-operations-ii) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Backtracking
 |  |
 | ------- |
