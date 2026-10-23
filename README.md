@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3276-select-cells-in-grid-with-maximum-score](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3276-select-cells-in-grid-with-maximum-score) |
 | [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3743-maximize-cyclic-partition-score](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3743-maximize-cyclic-partition-score) |
 | [3886-sum-of-sortable-integers](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3886-sum-of-sortable-integers) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0864-shortest-path-to-get-all-keys](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0864-shortest-path-to-get-all-keys) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3276-select-cells-in-grid-with-maximum-score](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3276-select-cells-in-grid-with-maximum-score) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Matrix
 |  |
 | ------- |
