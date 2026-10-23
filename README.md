@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0891-sum-of-subsequence-widths](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0891-sum-of-subsequence-widths) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0924-minimize-malware-spread](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0924-minimize-malware-spread) |
+| [0927-three-equal-parts](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0927-three-equal-parts) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0906-super-palindromes](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0906-super-palindromes) |
 | [0913-cat-and-mouse](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0913-cat-and-mouse) |
 | [0920-number-of-music-playlists](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0920-number-of-music-playlists) |
+| [0927-three-equal-parts](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0927-three-equal-parts) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3463-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3463-check-if-digits-are-equal-in-string-after-operations-ii) |
 | [3609-minimum-moves-to-reach-target-in-grid](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3609-minimum-moves-to-reach-target-in-grid) |
