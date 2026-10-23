@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0924-minimize-malware-spread](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0924-minimize-malware-spread) |
 | [0927-three-equal-parts](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0927-three-equal-parts) |
 | [0928-minimize-malware-spread-ii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0928-minimize-malware-spread-ii) |
+| [0943-find-the-shortest-superstring](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0943-find-the-shortest-superstring) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0906-super-palindromes](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0906-super-palindromes) |
 | [0936-stamping-the-sequence](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0936-stamping-the-sequence) |
 | [0940-distinct-subsequences-ii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0940-distinct-subsequences-ii) |
+| [0943-find-the-shortest-superstring](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0943-find-the-shortest-superstring) |
 | [1021-remove-outermost-parentheses](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3303-find-the-occurrence-of-first-almost-equal-substring](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3303-find-the-occurrence-of-first-almost-equal-substring) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0913-cat-and-mouse](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0913-cat-and-mouse) |
 | [0920-number-of-music-playlists](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0920-number-of-music-playlists) |
 | [0940-distinct-subsequences-ii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0940-distinct-subsequences-ii) |
+| [0943-find-the-shortest-superstring](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0943-find-the-shortest-superstring) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3165-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 | [3276-select-cells-in-grid-with-maximum-score](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3276-select-cells-in-grid-with-maximum-score) |
@@ -401,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0810-chalkboard-xor-game](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0810-chalkboard-xor-game) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0864-shortest-path-to-get-all-keys) |
+| [0943-find-the-shortest-superstring](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0943-find-the-shortest-superstring) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3276-select-cells-in-grid-with-maximum-score](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3276-select-cells-in-grid-with-maximum-score) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -419,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0805-split-array-with-same-average](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0805-split-array-with-same-average) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [0943-find-the-shortest-superstring](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0943-find-the-shortest-superstring) |
 | [3276-select-cells-in-grid-with-maximum-score](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3276-select-cells-in-grid-with-maximum-score) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
@@ -627,4 +632,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0913-cat-and-mouse](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0913-cat-and-mouse) |
+## Hamiltonian Path
+|  |
+| ------- |
+| [0943-find-the-shortest-superstring](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0943-find-the-shortest-superstring) |
 <!---LeetCode Topics End-->
