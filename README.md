@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0936-stamping-the-sequence](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0936-stamping-the-sequence) |
 | [0940-distinct-subsequences-ii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0940-distinct-subsequences-ii) |
 | [0943-find-the-shortest-superstring](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0943-find-the-shortest-superstring) |
+| [0972-equal-rational-numbers](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0972-equal-rational-numbers) |
 | [1021-remove-outermost-parentheses](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2409-count-days-spent-together](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/2409-count-days-spent-together) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0927-three-equal-parts](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0927-three-equal-parts) |
 | [0952-largest-component-size-by-common-factor](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0952-largest-component-size-by-common-factor) |
 | [0964-least-operators-to-express-number](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0964-least-operators-to-express-number) |
+| [0972-equal-rational-numbers](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0972-equal-rational-numbers) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/2409-count-days-spent-together) |
 | [3463-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3463-check-if-digits-are-equal-in-string-after-operations-ii) |
