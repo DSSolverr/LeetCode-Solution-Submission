@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0996-number-of-squareful-arrays](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0996-number-of-squareful-arrays) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1001-grid-illumination](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1001-grid-illumination) |
+| [1032-stream-of-characters](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1032-stream-of-characters) |
 | [1254-number-of-closed-islands](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1254-number-of-closed-islands) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0972-equal-rational-numbers](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0972-equal-rational-numbers) |
 | [1021-remove-outermost-parentheses](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1021-remove-outermost-parentheses) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1028-recover-a-tree-from-preorder-traversal) |
+| [1032-stream-of-characters](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1032-stream-of-characters) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2409-count-days-spent-together](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/2409-count-days-spent-together) |
 | [3303-find-the-occurrence-of-first-almost-equal-substring](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3303-find-the-occurrence-of-first-almost-equal-substring) |
@@ -520,10 +522,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0295-find-median-from-data-stream) |
 | [0895-maximum-frequency-stack](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0895-maximum-frequency-stack) |
+| [1032-stream-of-characters](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1032-stream-of-characters) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0295-find-median-from-data-stream) |
+| [1032-stream-of-characters](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1032-stream-of-characters) |
 ## Memoization
 |  |
 | ------- |
@@ -729,4 +733,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+## Trie
+|  |
+| ------- |
+| [1032-stream-of-characters](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1032-stream-of-characters) |
+## Aho–Corasick Algorithm
+|  |
+| ------- |
+| [1032-stream-of-characters](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1032-stream-of-characters) |
 <!---LeetCode Topics End-->
