@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [0996-number-of-squareful-arrays](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0996-number-of-squareful-arrays) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1000-minimum-cost-to-merge-stones) |
+| [1001-grid-illumination](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1001-grid-illumination) |
 | [1254-number-of-closed-islands](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1254-number-of-closed-islands) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0992-subarrays-with-k-different-integers) |
 | [0996-number-of-squareful-arrays](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0996-number-of-squareful-arrays) |
+| [1001-grid-illumination](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1001-grid-illumination) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
