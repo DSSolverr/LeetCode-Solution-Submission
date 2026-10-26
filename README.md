@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-find-the-shortest-superstring](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0943-find-the-shortest-superstring) |
 | [0952-largest-component-size-by-common-factor](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0952-largest-component-size-by-common-factor) |
 | [0956-tallest-billboard](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0956-tallest-billboard) |
+| [0975-odd-even-jump](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0975-odd-even-jump) |
 | [1254-number-of-closed-islands](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1254-number-of-closed-islands) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0891-sum-of-subsequence-widths](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0891-sum-of-subsequence-widths) |
 | [0899-orderly-queue](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0899-orderly-queue) |
+| [0975-odd-even-jump](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0975-odd-even-jump) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0220-contains-duplicate-iii) |
 | [0850-rectangle-area-ii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0850-rectangle-area-ii) |
 | [0895-maximum-frequency-stack](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0895-maximum-frequency-stack) |
+| [0975-odd-even-jump](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0975-odd-even-jump) |
 | [3962-maximum-subarray-sum-after-at-most-k-swaps](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3962-maximum-subarray-sum-after-at-most-k-swaps) |
 ## Hash Table
 |  |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0224-basic-calculator) |
 | [0895-maximum-frequency-stack](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0895-maximum-frequency-stack) |
 | [0936-stamping-the-sequence](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0936-stamping-the-sequence) |
+| [0975-odd-even-jump](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0975-odd-even-jump) |
 | [1021-remove-outermost-parentheses](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Bracket Sequences
@@ -311,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0956-tallest-billboard](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0956-tallest-billboard) |
 | [0964-least-operators-to-express-number](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0964-least-operators-to-express-number) |
 | [0968-binary-tree-cameras](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0968-binary-tree-cameras) |
+| [0975-odd-even-jump](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0975-odd-even-jump) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3165-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 | [3276-select-cells-in-grid-with-maximum-score](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3276-select-cells-in-grid-with-maximum-score) |
@@ -672,4 +677,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0952-largest-component-size-by-common-factor](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0952-largest-component-size-by-common-factor) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0975-odd-even-jump](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0975-odd-even-jump) |
 <!---LeetCode Topics End-->
