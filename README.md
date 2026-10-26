@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-number-of-music-playlists](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0920-number-of-music-playlists) |
 | [0927-three-equal-parts](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0927-three-equal-parts) |
 | [0952-largest-component-size-by-common-factor](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0952-largest-component-size-by-common-factor) |
+| [0964-least-operators-to-express-number](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0964-least-operators-to-express-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/2409-count-days-spent-together) |
 | [3463-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3463-check-if-digits-are-equal-in-string-after-operations-ii) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0940-distinct-subsequences-ii) |
 | [0943-find-the-shortest-superstring](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0943-find-the-shortest-superstring) |
 | [0956-tallest-billboard](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0956-tallest-billboard) |
+| [0964-least-operators-to-express-number](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0964-least-operators-to-express-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3165-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 | [3276-select-cells-in-grid-with-maximum-score](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3276-select-cells-in-grid-with-maximum-score) |
@@ -477,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0546-remove-boxes](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0546-remove-boxes) |
 | [0913-cat-and-mouse](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0913-cat-and-mouse) |
+| [0964-least-operators-to-express-number](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0964-least-operators-to-express-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Graph Theory
 |  |
