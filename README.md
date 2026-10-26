@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1000-minimum-cost-to-merge-stones](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1001-grid-illumination](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1001-grid-illumination) |
 | [1032-stream-of-characters](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1032-stream-of-characters) |
+| [1036-escape-a-large-maze](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1036-escape-a-large-maze) |
 | [1254-number-of-closed-islands](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1254-number-of-closed-islands) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0992-subarrays-with-k-different-integers) |
 | [0996-number-of-squareful-arrays](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0996-number-of-squareful-arrays) |
 | [1001-grid-illumination](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1001-grid-illumination) |
+| [1036-escape-a-large-maze](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1036-escape-a-large-maze) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0924-minimize-malware-spread](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0924-minimize-malware-spread) |
 | [0928-minimize-malware-spread-ii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0928-minimize-malware-spread-ii) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1036-escape-a-large-maze](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1036-escape-a-large-maze) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1254-number-of-closed-islands) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0968-binary-tree-cameras](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0968-binary-tree-cameras) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1028-recover-a-tree-from-preorder-traversal) |
+| [1036-escape-a-large-maze](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1036-escape-a-large-maze) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1192-critical-connections-in-a-network](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1192-critical-connections-in-a-network) |
 | [1254-number-of-closed-islands](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1254-number-of-closed-islands) |
@@ -741,4 +745,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1032-stream-of-characters](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1032-stream-of-characters) |
+## Bidirectional Search
+|  |
+| ------- |
+| [1036-escape-a-large-maze](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1036-escape-a-large-maze) |
 <!---LeetCode Topics End-->
