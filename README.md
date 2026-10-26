@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-odd-even-jump](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0975-odd-even-jump) |
 | [0980-unique-paths-iii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0980-unique-paths-iii) |
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
+| [0992-subarrays-with-k-different-integers](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0992-subarrays-with-k-different-integers) |
 | [1254-number-of-closed-islands](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1254-number-of-closed-islands) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0239-sliding-window-maximum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0992-subarrays-with-k-different-integers](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0992-subarrays-with-k-different-integers) |
 | [3957-maximum-sum-of-m-non-overlapping-subarrays-ii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3957-maximum-sum-of-m-non-overlapping-subarrays-ii) |
 ## Sorting
 |  |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-largest-component-size-by-common-factor](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0952-largest-component-size-by-common-factor) |
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0992-subarrays-with-k-different-integers](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0992-subarrays-with-k-different-integers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -695,4 +698,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0975-odd-even-jump](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0975-odd-even-jump) |
+## Counting
+|  |
+| ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0992-subarrays-with-k-different-integers) |
 <!---LeetCode Topics End-->
