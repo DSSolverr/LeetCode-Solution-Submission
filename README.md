@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0992-subarrays-with-k-different-integers) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [0996-number-of-squareful-arrays](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0996-number-of-squareful-arrays) |
+| [1000-minimum-cost-to-merge-stones](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1254-number-of-closed-islands](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1254-number-of-closed-islands) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0968-binary-tree-cameras](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0968-binary-tree-cameras) |
 | [0975-odd-even-jump](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0975-odd-even-jump) |
 | [0996-number-of-squareful-arrays](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0996-number-of-squareful-arrays) |
+| [1000-minimum-cost-to-merge-stones](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3165-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 | [3276-select-cells-in-grid-with-maximum-score](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3276-select-cells-in-grid-with-maximum-score) |
@@ -492,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0903-valid-permutations-for-di-sequence](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0903-valid-permutations-for-di-sequence) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+| [1000-minimum-cost-to-merge-stones](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1000-minimum-cost-to-merge-stones) |
 | [3957-maximum-sum-of-m-non-overlapping-subarrays-ii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3957-maximum-sum-of-m-non-overlapping-subarrays-ii) |
 ## Enumeration
 |  |
