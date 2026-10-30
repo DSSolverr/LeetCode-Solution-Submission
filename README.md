@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3463-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3463-check-if-digits-are-equal-in-string-after-operations-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Backtracking
 |  |
 | ------- |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3266-final-array-state-after-k-multiplication-operations-ii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3266-final-array-state-after-k-multiplication-operations-ii) |
 | [3962-maximum-subarray-sum-after-at-most-k-swaps](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3962-maximum-subarray-sum-after-at-most-k-swaps) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -566,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0928-minimize-malware-spread-ii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0928-minimize-malware-spread-ii) |
 | [1192-critical-connections-in-a-network](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1192-critical-connections-in-a-network) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Biconnected Component
 |  |
 | ------- |
@@ -720,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0882-reachable-nodes-in-subdivided-graph) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
