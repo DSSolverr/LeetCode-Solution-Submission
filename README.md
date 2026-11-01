@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1036-escape-a-large-maze](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1036-escape-a-large-maze) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1203-sort-items-by-groups-respecting-dependencies](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1254-number-of-closed-islands](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1254-number-of-closed-islands) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-escape-a-large-maze](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1036-escape-a-large-maze) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1192-critical-connections-in-a-network](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1192-critical-connections-in-a-network) |
+| [1203-sort-items-by-groups-respecting-dependencies](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1254-number-of-closed-islands](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1254-number-of-closed-islands) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -572,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0924-minimize-malware-spread](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0924-minimize-malware-spread) |
 | [0928-minimize-malware-spread-ii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0928-minimize-malware-spread-ii) |
 | [1192-critical-connections-in-a-network](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1192-critical-connections-in-a-network) |
+| [1203-sort-items-by-groups-respecting-dependencies](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Biconnected Component
@@ -741,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0913-cat-and-mouse](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0913-cat-and-mouse) |
+| [1203-sort-items-by-groups-respecting-dependencies](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 ## Hamiltonian Path
 |  |
 | ------- |
@@ -798,4 +802,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1044-longest-duplicate-substring](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1044-longest-duplicate-substring) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [1203-sort-items-by-groups-respecting-dependencies](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 <!---LeetCode Topics End-->
