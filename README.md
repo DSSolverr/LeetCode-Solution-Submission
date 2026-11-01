@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0239-sliding-window-maximum) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0517-super-washing-machines](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0517-super-washing-machines) |
 | [0546-remove-boxes](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0546-remove-boxes) |
 | [0587-erect-the-fence](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0587-erect-the-fence) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0233-number-of-digit-one) |
 | [0282-expression-add-operators](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0282-expression-add-operators) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0458-poor-pigs](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0458-poor-pigs) |
 | [0470-implement-rand10-using-rand7](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0470-implement-rand10-using-rand7) |
 | [0478-generate-random-point-in-a-circle](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0478-generate-random-point-in-a-circle) |
