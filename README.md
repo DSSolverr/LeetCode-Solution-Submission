@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1377-frog-position-after-t-seconds](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1377-frog-position-after-t-seconds) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1210-minimum-moves-to-reach-target-with-rotations](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1210-minimum-moves-to-reach-target-with-rotations) |
 | [1254-number-of-closed-islands](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1254-number-of-closed-islands) |
+| [1377-frog-position-after-t-seconds](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1377-frog-position-after-t-seconds) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1192-critical-connections-in-a-network](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1192-critical-connections-in-a-network) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1254-number-of-closed-islands](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1254-number-of-closed-islands) |
+| [1377-frog-position-after-t-seconds](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1377-frog-position-after-t-seconds) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -579,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0928-minimize-malware-spread-ii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0928-minimize-malware-spread-ii) |
 | [1192-critical-connections-in-a-network](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1192-critical-connections-in-a-network) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
+| [1377-frog-position-after-t-seconds](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1377-frog-position-after-t-seconds) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Biconnected Component
