@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1001-grid-illumination](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1001-grid-illumination) |
 | [1032-stream-of-characters](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1032-stream-of-characters) |
 | [1036-escape-a-large-maze](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1036-escape-a-large-maze) |
+| [1210-minimum-moves-to-reach-target-with-rotations](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1210-minimum-moves-to-reach-target-with-rotations) |
 | [1254-number-of-closed-islands](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1254-number-of-closed-islands) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-escape-a-large-maze](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1036-escape-a-large-maze) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
+| [1210-minimum-moves-to-reach-target-with-rotations](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1210-minimum-moves-to-reach-target-with-rotations) |
 | [1254-number-of-closed-islands](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1254-number-of-closed-islands) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -508,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0827-making-a-large-island) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0980-unique-paths-iii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0980-unique-paths-iii) |
+| [1210-minimum-moves-to-reach-target-with-rotations](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1210-minimum-moves-to-reach-target-with-rotations) |
 | [1254-number-of-closed-islands](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1254-number-of-closed-islands) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [3276-select-cells-in-grid-with-maximum-score](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3276-select-cells-in-grid-with-maximum-score) |
