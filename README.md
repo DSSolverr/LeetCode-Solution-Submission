@@ -552,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0295-find-median-from-data-stream) |
 | [0895-maximum-frequency-stack](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0895-maximum-frequency-stack) |
 | [1032-stream-of-characters](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1032-stream-of-characters) |
+| [1206-design-skiplist](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1206-design-skiplist) |
 ## Data Stream
 |  |
 | ------- |
@@ -806,4 +807,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
+## Linked List
+|  |
+| ------- |
+| [1206-design-skiplist](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1206-design-skiplist) |
 <!---LeetCode Topics End-->
