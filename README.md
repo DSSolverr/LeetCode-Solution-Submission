@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0239-sliding-window-maximum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0517-super-washing-machines](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0517-super-washing-machines) |
 | [0546-remove-boxes](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0546-remove-boxes) |
 | [0587-erect-the-fence](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0587-erect-the-fence) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0220-contains-duplicate-iii) |
 | [0295-find-median-from-data-stream](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0295-find-median-from-data-stream) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0630-course-schedule-iii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0857-minimum-cost-to-hire-k-workers) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0282-expression-add-operators) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0458-poor-pigs](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0458-poor-pigs) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0470-implement-rand10-using-rand7](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0470-implement-rand10-using-rand7) |
 | [0478-generate-random-point-in-a-circle](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0478-generate-random-point-in-a-circle) |
 | [0587-erect-the-fence](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0587-erect-the-fence) |
