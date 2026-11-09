@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1402-reducing-dishes) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1882-process-tasks-using-servers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0850-rectangle-area-ii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0850-rectangle-area-ii) |
 | [0895-maximum-frequency-stack](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0895-maximum-frequency-stack) |
 | [0975-odd-even-jump](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0975-odd-even-jump) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [3962-maximum-subarray-sum-after-at-most-k-swaps](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3962-maximum-subarray-sum-after-at-most-k-swaps) |
 ## Hash Table
 |  |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0882-reachable-nodes-in-subdivided-graph) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3266-final-array-state-after-k-multiplication-operations-ii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3266-final-array-state-after-k-multiplication-operations-ii) |
@@ -479,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [3266-final-array-state-after-k-multiplication-operations-ii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3266-final-array-state-after-k-multiplication-operations-ii) |
 ## Binary Indexed Tree
 |  |
