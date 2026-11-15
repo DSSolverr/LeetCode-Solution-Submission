@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-count-servers-that-communicate](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1402-reducing-dishes](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1402-reducing-dishes) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0972-equal-rational-numbers](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0972-equal-rational-numbers) |
 | [0996-number-of-squareful-arrays](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0996-number-of-squareful-arrays) |
 | [1012-numbers-with-repeated-digits](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1012-numbers-with-repeated-digits) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/2409-count-days-spent-together) |
 | [3463-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3463-check-if-digits-are-equal-in-string-after-operations-ii) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1000-minimum-cost-to-merge-stones](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1012-numbers-with-repeated-digits](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1012-numbers-with-repeated-digits) |
 | [1402-reducing-dishes](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1402-reducing-dishes) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3165-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 | [3276-select-cells-in-grid-with-maximum-score](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3276-select-cells-in-grid-with-maximum-score) |
@@ -585,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0903-valid-permutations-for-di-sequence](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0903-valid-permutations-for-di-sequence) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1000-minimum-cost-to-merge-stones) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3364-minimum-positive-sum-subarray) |
 | [3957-maximum-sum-of-m-non-overlapping-subarrays-ii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3957-maximum-sum-of-m-non-overlapping-subarrays-ii) |
 ## Enumeration
