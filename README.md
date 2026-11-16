@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1032-stream-of-characters](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1032-stream-of-characters) |
 | [1044-longest-duplicate-substring](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1044-longest-duplicate-substring) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/2409-count-days-spent-together) |
 | [3303-find-the-occurrence-of-first-almost-equal-substring](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3303-find-the-occurrence-of-first-almost-equal-substring) |
 | [3463-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3463-check-if-digits-are-equal-in-string-after-operations-ii) |
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3266-final-array-state-after-k-multiplication-operations-ii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3266-final-array-state-after-k-multiplication-operations-ii) |
 ## Binary Indexed Tree
 |  |
