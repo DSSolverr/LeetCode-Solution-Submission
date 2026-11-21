@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3165-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 | [3266-final-array-state-after-k-multiplication-operations-ii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3266-final-array-state-after-k-multiplication-operations-ii) |
 | [3276-select-cells-in-grid-with-maximum-score](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3276-select-cells-in-grid-with-maximum-score) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1377-frog-position-after-t-seconds](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1377-frog-position-after-t-seconds) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
@@ -265,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/2409-count-days-spent-together) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3303-find-the-occurrence-of-first-almost-equal-substring](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3303-find-the-occurrence-of-first-almost-equal-substring) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3463-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3463-check-if-digits-are-equal-in-string-after-operations-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -301,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-count-servers-that-communicate](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1267-count-servers-that-communicate) |
 | [1377-frog-position-after-t-seconds](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1377-frog-position-after-t-seconds) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Stack
