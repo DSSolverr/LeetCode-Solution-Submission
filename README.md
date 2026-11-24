@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3276-select-cells-in-grid-with-maximum-score](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3276-select-cells-in-grid-with-maximum-score) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-longest-duplicate-substring](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1044-longest-duplicate-substring) |
 | [2747-count-zero-request-servers](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/2747-count-zero-request-servers) |
 | [3364-minimum-positive-sum-subarray](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3957-maximum-sum-of-m-non-overlapping-subarrays-ii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3957-maximum-sum-of-m-non-overlapping-subarrays-ii) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/2409-count-days-spent-together) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3463-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3463-check-if-digits-are-equal-in-string-after-operations-ii) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3609-minimum-moves-to-reach-target-in-grid](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3609-minimum-moves-to-reach-target-in-grid) |
@@ -532,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0952-largest-component-size-by-common-factor](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0952-largest-component-size-by-common-factor) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3463-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3463-check-if-digits-are-equal-in-string-after-operations-ii) |
 ## Divide and Conquer
 |  |
@@ -612,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0829-consecutive-numbers-sum](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0829-consecutive-numbers-sum) |
 | [0906-super-palindromes](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0906-super-palindromes) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3886-sum-of-sortable-integers](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3886-sum-of-sortable-integers) |
 ## Two Pointers
 |  |
