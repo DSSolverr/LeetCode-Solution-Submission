@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3886-sum-of-sortable-integers) |
+| [3934-smallest-unique-subarray](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3957-maximum-sum-of-m-non-overlapping-subarrays-ii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3957-maximum-sum-of-m-non-overlapping-subarrays-ii) |
 | [3962-maximum-subarray-sum-after-at-most-k-swaps](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3962-maximum-subarray-sum-after-at-most-k-swaps) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3934-smallest-unique-subarray](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3934-smallest-unique-subarray) |
 | [3962-maximum-subarray-sum-after-at-most-k-swaps](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3962-maximum-subarray-sum-after-at-most-k-swaps) |
 ## Tree
 |  |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/0572-subtree-of-another-tree) |
 | [1044-longest-duplicate-substring](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1044-longest-duplicate-substring) |
+| [3934-smallest-unique-subarray](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3934-smallest-unique-subarray) |
 ## Math
 |  |
 | ------- |
@@ -505,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3934-smallest-unique-subarray](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3934-smallest-unique-subarray) |
 | [3957-maximum-sum-of-m-non-overlapping-subarrays-ii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3957-maximum-sum-of-m-non-overlapping-subarrays-ii) |
 ## Binary Search Tree
 |  |
@@ -864,10 +868,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1044-longest-duplicate-substring](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1044-longest-duplicate-substring) |
+| [3934-smallest-unique-subarray](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3934-smallest-unique-subarray) |
 ## Suffix Array
 |  |
 | ------- |
 | [1044-longest-duplicate-substring](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/1044-longest-duplicate-substring) |
+| [3934-smallest-unique-subarray](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3934-smallest-unique-subarray) |
 ## Suffix Automaton
 |  |
 | ------- |
