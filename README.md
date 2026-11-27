@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3886-sum-of-sortable-integers](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3886-sum-of-sortable-integers) |
 | [3934-smallest-unique-subarray](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [3957-maximum-sum-of-m-non-overlapping-subarrays-ii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3957-maximum-sum-of-m-non-overlapping-subarrays-ii) |
 | [3962-maximum-subarray-sum-after-at-most-k-swaps](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3962-maximum-subarray-sum-after-at-most-k-swaps) |
 ## Sliding Window
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3704-count-no-zero-pairs-that-sum-to-n](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3704-count-no-zero-pairs-that-sum-to-n) |
 | [3743-maximize-cyclic-partition-score](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3743-maximize-cyclic-partition-score) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [3957-maximum-sum-of-m-non-overlapping-subarrays-ii](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3957-maximum-sum-of-m-non-overlapping-subarrays-ii) |
 ## Queue
 |  |
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [3962-maximum-subarray-sum-after-at-most-k-swaps](https://github.com/DSSolverr/LeetCode-Solution-Submission/tree/master/3962-maximum-subarray-sum-after-at-most-k-swaps) |
 ## Binary Search
 |  |
